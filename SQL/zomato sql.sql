@@ -1,0 +1,13 @@
+CREATE DATABASE zomato_analytics;
+USE zomato_analytics;
+SHOW DATABASES;
+USE zomato_analytics;
+SELECT COUNT(*) FROM restaurants;
+SELECT COUNT(*) FROM customers;
+SELECT COUNT(*) FROM orders;
+SELECT COUNT(*) FROM reviews;
+SELECT * FROM orders LIMIT 10;
+SELECT restaurant_name, city, primary_cuisine, restaurant_rating, rating_count FROM restaurants WHERE restaurant_rating IS NOT NULL ORDER BY restaurant_rating DESC, rating_count DESC LIMIT 10;
+SELECT DATE_FORMAT(order_date, '%Y-%m') AS order_month, COUNT(*) AS total_orders, ROUND(SUM(order_amount), 2) AS order_value FROM orders GROUP BY DATE_FORMAT(order_date, '%Y-%m') ORDER BY order_month;
+SELECT r.primary_cuisine, COUNT(o.order_id) AS total_orders, ROUND(AVG(r.restaurant_rating), 2) AS avg_rating FROM restaurants r JOIN orders o ON r.restaurant_id = o.restaurant_id GROUP BY r.primary_cuisine ORDER BY total_orders DESC;
+SELECT order_status, COUNT(*) AS order_count, ROUND( COUNT(*) * 100.0 / (SELECT COUNT(*) FROM orders), 2 ) AS percentage FROM orders GROUP BY order_status;
