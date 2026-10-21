@@ -249,19 +249,19 @@ These are example actions; final recommendations should rest on validated findin
 ## Dashboard Screenshots
 
 ### 1. Overview Dashboard
-![Zomato Restaurant Ratings and Order Trends Analysis](./Dashboard%20Screenshots/zomato_Restaurant_Ratings___Order_Trend_Analysis.png)
+![Zomato Restaurant Ratings and Order Trends Analysis](./Dashboard%20Screenshots/zomato%20Restaurant%20Ratings%20%26%20Order%20Trend%20Analysis.png)
 
 ### 2. Restaurant Analysis
-![Zomato Restaurant Analysis](./Dashboard%20Screenshots/zomato_restaurant_analysis.png)
+![Zomato Restaurant Analysis](./Dashboard%20Screenshots/zomato%20restaurant%20analysis.png)
 
 ### 3. Customer Behaviour & Insights
-![Customer Behaviour and Insights](./Dashboard%20Screenshots/customer_behaviour___insights.png)
+![Customer Behaviour and Insights](./Dashboard%20Screenshots/customer%20behaviour%20%26%20insights.png)
 
 ### 4. Ratings & Orders Analysis
-![Zomato Ratings and Orders Analysis](./Dashboard%20Screenshots/zomato_ratings___orders_analysis.png)
+![Zomato Ratings and Orders Analysis](./Dashboard%20Screenshots/zomato%20ratings%20%26%20orders%20analysis.png)
 
 ### 5. Restaurant Locations and Ratings Across India
-![Restaurant Locations and Ratings Across India](./Dashboard%20Screenshots/restaurants_loactions_and_ratings_across_india.png)
+![Restaurant Locations and Ratings Across India](./Dashboard%20Screenshots/restaurants%20loactions%20and%20ratings%20across%20india.png)
 
 > The image paths point to the `Dashboard Screenshots` folder. Each filename must match the file in that folder exactly (including capitals and underscores).
 
@@ -281,11 +281,11 @@ Zomato-Restaurant-Ratings-and-Order-Trends/
 ├── Documentation/
 │
 └── Dashboard Screenshots/
-    ├── zomato_Restaurant_Ratings___Order_Trend_Analysis.png
-    ├── zomato_restaurant_analysis.png
-    ├── customer_behaviour___insights.png
-    ├── zomato_ratings___orders_analysis.png
-    └── restaurants_loactions_and_ratings_across_india.png
+    ├── zomato Restaurant Ratings & Order Trend Analysis.png
+    ├── zomato restaurant analysis.png
+    ├── customer behaviour & insights.png
+    ├── zomato ratings & orders analysis.png
+    └── restaurants loactions and ratings across india.png
 ```
 
 ---
