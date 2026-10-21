@@ -1,0 +1,251 @@
+restaurant_id,restaurant_name,city,locality,primary_cuisine,price_range,average_cost_for_two,restaurant_rating,rating_count,online_delivery,is_active
+1001,Urban Tiffin 001,Bengaluru,Locality 3,Healthy Food,Premium,800,3.7,1992,Yes,Yes
+1002,Cafe Mosaic 002,Delhi,Locality 17,North Indian,Premium,450,3.9,1633,Yes,Yes
+1003,Punjabi Dhaba 003,Bengaluru,Locality 25,North Indian,Premium,450,4.0,8,Yes,Yes
+1004,Pizza Station 004,Mumbai,Locality 22,Healthy Food,Moderate,450,5.0,2480,Yes,Yes
+1005,Pizza Station 005,Kolkata,Locality 7,Cafe,Moderate,1000,4.3,64,Yes,Yes
+1006,Rice & Rasam 006,Bengaluru,Locality 12,Burgers,Premium,450,3.4,2498,Yes,Yes
+1007,Urban Tiffin 007,Kolkata,Locality 14,Multi-cuisine,Moderate,1800,4.3,84,No,Yes
+1008,Punjabi Dhaba 008,Bengaluru,Locality 7,Pizza,Premium,800,3.6,1293,Yes,Yes
+1009,Dosa Corner 009,Bengaluru,Locality 7,North Indian,Moderate,1500,3.5,269,Yes,Yes
+1010,Urban Tiffin 010,Pune,Locality 6,Multi-cuisine,Budget,1200,4.3,242,Yes,Yes
+1011,Chai & Co 011,Coimbatore,Locality 25,Biryani,Budget,600,3.8,1710,No,Yes
+1012,Flavour Junction 012,Bengaluru,Locality 19,Cafe,Premium,450,4.0,1820,Yes,Yes
+1013,Noodle Hub 013,Hyderabad,Locality 22,Healthy Food,Budget,1200,3.8,300,Yes,Yes
+1014,Cafe Mosaic 014,Ahmedabad,Locality 21,Healthy Food,Budget,450,4.0,2441,Yes,Yes
+1015,Noodle Hub 015,Ahmedabad,Locality 24,Pizza,Moderate,450,4.0,804,No,No
+1016,Cafe Mosaic 016,Pune,Locality 3,Street Food,Budget,1800,2.7,799,Yes,Yes
+1017,Chai & Co 017,Delhi,Locality 23,Desserts,Moderate,800,4.2,745,Yes,Yes
+1018,Royal Biryani 018,Mumbai,Locality 2,Burgers,Premium,250,3.3,1155,No,Yes
+1019,Grill Garden 019,Kolkata,Locality 12,North Indian,Budget,800,3.0,448,Yes,Yes
+1020,Burger Barn 020,Pune,Locality 15,Pizza,Premium,800,3.8,1064,Yes,Yes
+1021,Chai & Co 021,Hyderabad,Locality 9,Desserts,Premium,1500,3.8,528,Yes,Yes
+1022,Wok Express 022,Chennai,Locality 4,Healthy Food,Moderate,1200,3.4,133,Yes,Yes
+1023,Curry House 023,Bengaluru,Locality 5,South Indian,Budget,350,4.3,924,Yes,Yes
+1024,The Meal Box 024,Ahmedabad,Locality 21,Multi-cuisine,Moderate,350,3.1,1682,Yes,Yes
+1025,Cafe Mosaic 025,Delhi,Locality 8,Italian,Budget,1000,3.6,1908,Yes,Yes
+1026,Coastal Kitchen 026,Delhi,Locality 8,Healthy Food,Moderate,250,3.5,886,Yes,Yes
+1027,Pizza Station 027,Delhi,Locality 24,Burgers,Luxury,450,3.8,812,Yes,Yes
+1028,Grill Garden 028,Coimbatore,Locality 4,North Indian,Luxury,350,4.0,1969,Yes,Yes
+1029,Chai & Co 029,Chennai,Locality 23,Chinese,Premium,250,3.2,1704,Yes,Yes
+1030,Pizza Station 030,Chennai,Locality 24,Italian,Moderate,1800,4.2,2081,Yes,Yes
+1031,Burger Barn 031,Hyderabad,Locality 15,Italian,Moderate,250,3.8,2265,Yes,Yes
+1032,Dosa Corner 032,Delhi,Locality 5,Desserts,Moderate,250,2.8,2053,No,Yes
+1033,Urban Tiffin 033,Kolkata,Locality 4,North Indian,Moderate,1800,2.7,2341,No,Yes
+1034,Sweet Cravings 034,Delhi,Locality 8,North Indian,Moderate,350,3.8,1044,Yes,Yes
+1035,Rice & Rasam 035,Delhi,Locality 15,Burgers,Budget,1500,3.7,989,Yes,Yes
+1036,Urban Tiffin 036,Ahmedabad,Locality 4,Desserts,Budget,250,3.7,807,Yes,Yes
+1037,Rice & Rasam 037,Bengaluru,Locality 12,South Indian,Moderate,350,3.8,591,Yes,Yes
+1038,Grill Garden 038,Pune,Locality 3,Multi-cuisine,Budget,250,3.9,1873,Yes,Yes
+1039,The Food Yard 039,Pune,Locality 14,Cafe,Budget,1200,4.3,1787,Yes,Yes
+1040,Coastal Kitchen 040,Delhi,Locality 1,South Indian,Premium,1000,3.2,2004,Yes,Yes
+1041,Curry House 041,Jaipur,Locality 18,North Indian,Luxury,800,3.2,422,Yes,Yes
+1042,Cafe Mosaic 042,Hyderabad,Locality 2,Burgers,Moderate,450,3.2,1230,Yes,Yes
+1043,Noodle Hub 043,Ahmedabad,Locality 5,Multi-cuisine,Premium,250,4.0,558,Yes,Yes
+1044,Wok Express 044,Mumbai,Locality 5,Street Food,Luxury,1000,4.5,2233,Yes,Yes
+1045,Urban Tiffin 045,Pune,Locality 21,Burgers,Budget,450,3.6,672,Yes,Yes
+1046,Flavour Junction 046,Pune,Locality 2,Chinese,Moderate,1000,2.4,364,Yes,Yes
+1047,Pizza Station 047,Jaipur,Locality 11,Healthy Food,Moderate,1200,2.9,1426,Yes,Yes
+1048,Rice & Rasam 048,Delhi,Locality 15,Burgers,Budget,1500,3.3,2198,Yes,Yes
+1049,Punjabi Dhaba 049,Hyderabad,Locality 13,Chinese,Premium,800,3.5,2289,Yes,Yes
+1050,Cafe Mosaic 050,Chennai,Locality 18,Burgers,Moderate,250,3.6,244,Yes,Yes
+1051,Cafe Mosaic 051,Mumbai,Locality 21,South Indian,Moderate,450,3.8,818,Yes,Yes
+1052,Curry House 052,Jaipur,Locality 10,Chinese,Budget,1500,3.6,388,Yes,Yes
+1053,Wok Express 053,Chennai,Locality 21,Cafe,Budget,800,4.4,773,No,Yes
+1054,Burger Barn 054,Jaipur,Locality 8,Healthy Food,Premium,1000,3.4,1336,Yes,Yes
+1055,Burger Barn 055,Pune,Locality 25,Multi-cuisine,Budget,800,3.3,705,Yes,Yes
+1056,Spice Route 056,Bengaluru,Locality 13,Street Food,Budget,350,4.1,173,Yes,Yes
+1057,Chai & Co 057,Mumbai,Locality 19,Cafe,Budget,1800,3.0,1277,No,Yes
+1058,Curry House 058,Pune,Locality 22,North Indian,Moderate,1200,4.0,136,Yes,No
+1059,Noodle Hub 059,Mumbai,Locality 20,Pizza,Moderate,1800,3.9,570,No,Yes
+1060,Punjabi Dhaba 060,Bengaluru,Locality 22,Healthy Food,Moderate,1500,3.7,6,Yes,Yes
+1061,The Meal Box 061,Kolkata,Locality 14,South Indian,Budget,450,4.7,221,Yes,Yes
+1062,Noodle Hub 062,Kolkata,Locality 2,Italian,Budget,450,3.5,1093,Yes,Yes
+1063,Wok Express 063,Bengaluru,Locality 13,Multi-cuisine,Premium,450,4.9,2127,Yes,Yes
+1064,Flavour Junction 064,Hyderabad,Locality 5,Chinese,Moderate,1800,3.7,1937,Yes,Yes
+1065,Pizza Station 065,Hyderabad,Locality 23,Street Food,Moderate,1000,3.1,251,Yes,Yes
+1066,Green Bowl 066,Kolkata,Locality 6,Italian,Moderate,800,3.8,91,Yes,Yes
+1067,The Meal Box 067,Coimbatore,Locality 6,South Indian,Premium,1800,3.2,848,Yes,Yes
+1068,Wok Express 068,Coimbatore,Locality 7,North Indian,Budget,1000,3.4,1632,Yes,Yes
+1069,Urban Tiffin 069,Ahmedabad,Locality 17,Desserts,Moderate,1800,4.0,1868,Yes,Yes
+1070,Burger Barn 070,Coimbatore,Locality 15,Healthy Food,Moderate,1800,4.1,2058,Yes,Yes
+1071,Cafe Mosaic 071,Mumbai,Locality 24,South Indian,Moderate,250,3.5,858,Yes,Yes
+1072,Curry House 072,Bengaluru,Locality 11,Desserts,Premium,600,4.3,424,Yes,Yes
+1073,Burger Barn 073,Kolkata,Locality 8,North Indian,Moderate,1200,4.4,70,Yes,Yes
+1074,Royal Biryani 074,Ahmedabad,Locality 2,Desserts,Premium,1500,4.6,371,Yes,Yes
+1075,Punjabi Dhaba 075,Ahmedabad,Locality 1,Desserts,Premium,350,4.1,167,Yes,Yes
+1076,Burger Barn 076,Hyderabad,Locality 10,North Indian,Moderate,450,4.5,2152,Yes,No
+1077,Green Bowl 077,Hyderabad,Locality 24,Multi-cuisine,Premium,800,2.8,674,Yes,Yes
+1078,Dosa Corner 078,Chennai,Locality 14,Italian,Moderate,1500,3.6,2058,Yes,Yes
+1079,Sweet Cravings 079,Bengaluru,Locality 23,Italian,Premium,350,3.3,1385,Yes,Yes
+1080,Punjabi Dhaba 080,Pune,Locality 3,South Indian,Moderate,1000,3.9,1349,Yes,Yes
+1081,The Meal Box 081,Pune,Locality 3,Biryani,Moderate,450,3.5,1139,No,Yes
+1082,Pizza Station 082,Mumbai,Locality 21,Biryani,Moderate,350,3.7,2048,No,Yes
+1083,Curry House 083,Mumbai,Locality 3,Burgers,Budget,800,4.8,113,Yes,Yes
+1084,Grill Garden 084,Jaipur,Locality 2,North Indian,Moderate,600,,236,Yes,Yes
+1085,Coastal Kitchen 085,Delhi,Locality 11,Italian,Premium,1000,4.0,1061,Yes,Yes
+1086,Noodle Hub 086,Jaipur,Locality 24,Street Food,Moderate,450,3.7,989,Yes,Yes
+1087,Urban Tiffin 087,Ahmedabad,Locality 18,Street Food,Budget,1500,3.8,1366,Yes,Yes
+1088,Green Bowl 088,Mumbai,Locality 3,Biryani,Moderate,250,,1845,Yes,Yes
+1089,Cafe Mosaic 089,Hyderabad,Locality 21,South Indian,Budget,1500,4.0,1470,Yes,Yes
+1090,Grill Garden 090,Ahmedabad,Locality 22,Italian,Budget,250,4.4,647,Yes,No
+1091,Pizza Station 091,Kolkata,Locality 21,Chinese,Premium,1200,4.7,821,Yes,Yes
+1092,Grill Garden 092,Hyderabad,Locality 23,Desserts,Moderate,600,4.0,1882,No,Yes
+1093,Grill Garden 093,Kolkata,Locality 6,Italian,Moderate,600,4.1,507,Yes,Yes
+1094,Wok Express 094,Pune,Locality 25,South Indian,Moderate,250,3.2,1262,Yes,Yes
+1095,Rice & Rasam 095,Ahmedabad,Locality 9,South Indian,Budget,1200,3.8,1349,Yes,Yes
+1096,The Food Yard 096,Hyderabad,Locality 21,South Indian,Budget,350,4.3,1876,Yes,Yes
+1097,Dosa Corner 097,Ahmedabad,Locality 15,North Indian,Moderate,1000,4.3,1787,Yes,Yes
+1098,Punjabi Dhaba 098,Ahmedabad,Locality 20,South Indian,Moderate,1200,3.9,1164,Yes,Yes
+1099,Coastal Kitchen 099,Bengaluru,Locality 16,Street Food,Luxury,1500,4.3,776,Yes,Yes
+1100,Royal Biryani 100,Bengaluru,Locality 17,Desserts,Moderate,1200,4.1,922,Yes,Yes
+1101,Grill Garden 101,Pune,Locality 16,Healthy Food,Moderate,450,4.5,1031,Yes,Yes
+1102,Curry House 102,Chennai,Locality 20,Street Food,Premium,1200,4.0,551,Yes,Yes
+1103,Grill Garden 103,Hyderabad,Locality 19,Healthy Food,Premium,1500,3.6,1565,Yes,Yes
+1104,Spice Route 104,Delhi,Locality 4,Biryani,Premium,450,4.0,524,Yes,No
+1105,Cafe Mosaic 105,Ahmedabad,Locality 21,Chinese,Luxury,350,2.2,1623,Yes,Yes
+1106,Cafe Mosaic 106,Ahmedabad,Locality 14,Italian,Premium,1800,4.0,1879,Yes,Yes
+1107,Cafe Mosaic 107,Bengaluru,Locality 9,Biryani,Premium,350,2.0,2404,Yes,Yes
+1108,Punjabi Dhaba 108,Jaipur,Locality 13,South Indian,Budget,1000,2.9,301,Yes,Yes
+1109,Burger Barn 109,Chennai,Locality 25,Multi-cuisine,Premium,450,4.0,1900,Yes,Yes
+1110,Noodle Hub 110,Coimbatore,Locality 22,Street Food,Moderate,350,4.1,219,Yes,Yes
+1111,The Food Yard 111,Jaipur,Locality 21,Healthy Food,Moderate,1200,3.2,846,Yes,Yes
+1112,Cafe Mosaic 112,Jaipur,Locality 12,Healthy Food,Moderate,350,3.4,444,Yes,Yes
+1113,Sweet Cravings 113,Hyderabad,Locality 20,North Indian,Luxury,1200,4.6,409,Yes,Yes
+1114,Burger Barn 114,Jaipur,Locality 10,Street Food,Luxury,1200,3.5,442,Yes,Yes
+1115,Chai & Co 115,Bengaluru,Locality 18,Italian,Budget,250,5.0,114,Yes,Yes
+1116,Sweet Cravings 116,Pune,Locality 16,Multi-cuisine,Premium,350,3.8,2058,Yes,No
+1117,Spice Route 117,Delhi,Locality 7,Street Food,Premium,1500,4.0,157,Yes,Yes
+1118,Royal Biryani 118,Mumbai,Locality 7,Italian,Moderate,800,4.7,999,Yes,Yes
+1119,Dosa Corner 119,Chennai,Locality 2,Burgers,Budget,350,3.9,1749,No,Yes
+1120,Royal Biryani 120,Coimbatore,Locality 4,South Indian,Budget,1800,3.2,2476,Yes,Yes
+1121,Pizza Station 121,Mumbai,Locality 11,Burgers,Premium,450,3.7,2134,Yes,Yes
+1122,Punjabi Dhaba 122,Kolkata,Locality 12,Biryani,Moderate,250,3.8,347,No,Yes
+1123,Punjabi Dhaba 123,Delhi,Locality 5,North Indian,Luxury,1800,3.0,2469,Yes,Yes
+1124,Burger Barn 124,Mumbai,Locality 11,North Indian,Moderate,250,3.7,1635,Yes,Yes
+1125,Rice & Rasam 125,Jaipur,Locality 16,Multi-cuisine,Luxury,800,3.4,453,Yes,Yes
+1126,Sweet Cravings 126,Chennai,Locality 6,Cafe,Moderate,1800,4.3,1124,Yes,Yes
+1127,Urban Tiffin 127,Coimbatore,Locality 9,Cafe,Premium,1000,3.8,2295,Yes,Yes
+1128,Cafe Mosaic 128,Coimbatore,Locality 10,Multi-cuisine,Budget,1000,3.6,985,Yes,Yes
+1129,Sweet Cravings 129,Mumbai,Locality 13,Cafe,Moderate,600,3.7,463,Yes,Yes
+1130,Coastal Kitchen 130,Hyderabad,Locality 10,Desserts,Premium,350,3.9,2188,Yes,Yes
+1131,Sweet Cravings 131,Chennai,Locality 19,North Indian,Premium,1000,4.1,2382,No,Yes
+1132,Sweet Cravings 132,Ahmedabad,Locality 9,Italian,Premium,1800,3.3,2439,No,No
+1133,Urban Tiffin 133,Ahmedabad,Locality 11,Burgers,Budget,250,3.2,2389,Yes,Yes
+1134,Sweet Cravings 134,Hyderabad,Locality 10,North Indian,Moderate,1500,4.4,2182,Yes,Yes
+1135,Cafe Mosaic 135,Chennai,Locality 5,Street Food,Budget,600,3.6,1138,Yes,Yes
+1136,Green Bowl 136,Bengaluru,Locality 18,Multi-cuisine,Budget,800,3.0,484,No,Yes
+1137,Coastal Kitchen 137,Chennai,Locality 6,South Indian,Moderate,350,4.0,1544,Yes,Yes
+1138,Spice Route 138,Jaipur,Locality 8,Biryani,Moderate,1000,4.1,555,No,Yes
+1139,Green Bowl 139,Jaipur,Locality 20,South Indian,Premium,350,3.0,1185,Yes,Yes
+1140,Pizza Station 140,Bengaluru,Locality 24,Chinese,Premium,450,3.9,1641,Yes,Yes
+1141,Flavour Junction 141,Coimbatore,Locality 17,North Indian,Premium,1200,,2366,Yes,Yes
+1142,Dosa Corner 142,Bengaluru,Locality 23,Multi-cuisine,Premium,250,4.0,726,Yes,Yes
+1143,The Food Yard 143,Mumbai,Locality 22,Cafe,Budget,800,4.1,633,Yes,Yes
+1144,Pizza Station 144,Pune,Locality 13,Healthy Food,Budget,1000,3.0,1838,Yes,Yes
+1145,Flavour Junction 145,Coimbatore,Locality 20,Multi-cuisine,Moderate,350,4.0,21,No,Yes
+1146,Rice & Rasam 146,Jaipur,Locality 9,Desserts,Premium,450,3.6,1418,Yes,Yes
+1147,Spice Route 147,Chennai,Locality 12,Cafe,Budget,600,,1866,Yes,Yes
+1148,Dosa Corner 148,Bengaluru,Locality 14,South Indian,Moderate,1000,4.3,1379,Yes,Yes
+1149,Grill Garden 149,Hyderabad,Locality 25,South Indian,Moderate,1800,,962,Yes,Yes
+1150,Urban Tiffin 150,Mumbai,Locality 22,Desserts,Budget,1500,4.8,2072,No,Yes
+1151,Rice & Rasam 151,Ahmedabad,Locality 13,South Indian,Moderate,350,4.5,930,Yes,Yes
+1152,The Food Yard 152,Coimbatore,Locality 17,South Indian,Premium,250,3.7,1777,Yes,No
+1153,The Meal Box 153,Mumbai,Locality 6,Biryani,Moderate,250,4.0,1163,Yes,Yes
+1154,The Food Yard 154,Ahmedabad,Locality 21,Italian,Budget,1000,4.2,71,No,Yes
+1155,Pizza Station 155,Delhi,Locality 14,Burgers,Premium,350,3.9,1328,Yes,Yes
+1156,Punjabi Dhaba 156,Pune,Locality 14,Multi-cuisine,Moderate,450,3.9,128,Yes,Yes
+1157,Royal Biryani 157,Delhi,Locality 20,Pizza,Premium,1500,4.3,2327,Yes,Yes
+1158,Sweet Cravings 158,Bengaluru,Locality 16,Biryani,Budget,1500,,1505,Yes,Yes
+1159,Chai & Co 159,Ahmedabad,Locality 2,Pizza,Moderate,1500,3.4,933,No,Yes
+1160,Cafe Mosaic 160,Chennai,Locality 8,North Indian,Moderate,450,3.6,1218,Yes,Yes
+1161,Flavour Junction 161,Bengaluru,Locality 5,Street Food,Budget,1000,4.1,1549,No,Yes
+1162,Punjabi Dhaba 162,Hyderabad,Locality 19,Biryani,Premium,1000,3.8,654,Yes,Yes
+1163,Pizza Station 163,Hyderabad,Locality 1,Pizza,Budget,350,4.0,724,Yes,Yes
+1164,Pizza Station 164,Bengaluru,Locality 6,Healthy Food,Budget,800,4.2,1049,Yes,Yes
+1165,Pizza Station 165,Chennai,Locality 15,Desserts,Moderate,800,3.6,650,Yes,Yes
+1166,Grill Garden 166,Kolkata,Locality 18,Burgers,Moderate,600,4.2,1895,No,Yes
+1167,Green Bowl 167,Ahmedabad,Locality 13,Cafe,Premium,1200,4.0,264,No,Yes
+1168,Curry House 168,Bengaluru,Locality 22,Street Food,Luxury,1200,3.1,2067,Yes,Yes
+1169,Green Bowl 169,Hyderabad,Locality 23,Chinese,Budget,800,4.6,874,Yes,Yes
+1170,Spice Route 170,Pune,Locality 4,Desserts,Moderate,1200,3.5,1405,Yes,Yes
+1171,Royal Biryani 171,Ahmedabad,Locality 24,Italian,Budget,1200,2.9,398,Yes,Yes
+1172,Urban Tiffin 172,Kolkata,Locality 16,Cafe,Moderate,1000,3.2,966,Yes,Yes
+1173,Cafe Mosaic 173,Coimbatore,Locality 16,Burgers,Luxury,450,,1887,Yes,Yes
+1174,Noodle Hub 174,Pune,Locality 3,North Indian,Moderate,1200,3.8,680,Yes,Yes
+1175,Punjabi Dhaba 175,Delhi,Locality 16,Biryani,Moderate,1200,3.6,335,Yes,Yes
+1176,Burger Barn 176,Bengaluru,Locality 19,Healthy Food,Moderate,1800,,1307,Yes,Yes
+1177,Noodle Hub 177,Jaipur,Locality 15,Cafe,Premium,350,4.1,410,Yes,Yes
+1178,Curry House 178,Jaipur,Locality 3,Chinese,Moderate,600,4.0,790,No,Yes
+1179,The Meal Box 179,Chennai,Locality 14,Burgers,Budget,1800,4.0,1128,Yes,Yes
+1180,Chai & Co 180,Coimbatore,Locality 24,Cafe,Moderate,800,4.0,1412,Yes,Yes
+1181,The Meal Box 181,Chennai,Locality 19,Cafe,Budget,1800,4.1,1600,Yes,Yes
+1182,Curry House 182,Coimbatore,Locality 4,Multi-cuisine,Budget,250,2.6,1693,Yes,Yes
+1183,Burger Barn 183,Jaipur,Locality 24,Chinese,Budget,250,3.6,2111,No,Yes
+1184,Punjabi Dhaba 184,Bengaluru,Locality 24,Desserts,Moderate,1500,2.6,169,Yes,Yes
+1185,Burger Barn 185,Delhi,Locality 5,Burgers,Moderate,600,3.8,908,Yes,Yes
+1186,Pizza Station 186,Bengaluru,Locality 21,Healthy Food,Moderate,800,3.8,7,No,Yes
+1187,Curry House 187,Pune,Locality 11,North Indian,Moderate,600,,28,No,Yes
+1188,Wok Express 188,Ahmedabad,Locality 15,North Indian,Luxury,600,4.5,534,Yes,Yes
+1189,Dosa Corner 189,Chennai,Locality 12,Burgers,Premium,1800,3.9,1497,Yes,Yes
+1190,Green Bowl 190,Mumbai,Locality 20,Cafe,Moderate,250,3.5,2236,Yes,Yes
+1191,Punjabi Dhaba 191,Ahmedabad,Locality 25,Multi-cuisine,Budget,1200,4.1,1934,Yes,Yes
+1192,Coastal Kitchen 192,Mumbai,Locality 20,Pizza,Premium,1800,3.5,1617,Yes,Yes
+1193,Coastal Kitchen 193,Bengaluru,Locality 24,Italian,Budget,1000,3.8,1946,Yes,Yes
+1194,Wok Express 194,Delhi,Locality 24,Burgers,Moderate,600,4.3,434,No,Yes
+1195,Flavour Junction 195,Pune,Locality 3,North Indian,Premium,350,3.5,2100,Yes,Yes
+1196,Urban Tiffin 196,Kolkata,Locality 7,North Indian,Moderate,1200,,2226,Yes,No
+1197,Green Bowl 197,Mumbai,Locality 19,Healthy Food,Premium,800,4.2,242,Yes,Yes
+1198,Royal Biryani 198,Ahmedabad,Locality 15,North Indian,Moderate,350,3.3,1177,Yes,Yes
+1199,Green Bowl 199,Pune,Locality 2,Healthy Food,Moderate,600,,2075,Yes,No
+1200,Flavour Junction 200,Hyderabad,Locality 3,Chinese,Budget,1800,4.2,1192,Yes,Yes
+1201,Wok Express 201,Ahmedabad,Locality 14,North Indian,Budget,450,3.9,2101,No,Yes
+1202,The Meal Box 202,Ahmedabad,Locality 16,Chinese,Moderate,350,3.4,2339,Yes,Yes
+1203,Burger Barn 203,Delhi,Locality 5,Desserts,Budget,1200,3.3,1189,Yes,No
+1204,Punjabi Dhaba 204,Chennai,Locality 5,Burgers,Premium,350,3.5,153,Yes,Yes
+1205,Burger Barn 205,Pune,Locality 4,Street Food,Budget,1800,4.1,853,Yes,Yes
+1206,The Food Yard 206,Pune,Locality 15,Desserts,Moderate,1500,3.3,541,No,Yes
+1207,Cafe Mosaic 207,Bengaluru,Locality 1,Pizza,Premium,1800,4.0,1187,Yes,Yes
+1208,Flavour Junction 208,Kolkata,Locality 15,Desserts,Premium,1800,3.1,1466,Yes,Yes
+1209,The Food Yard 209,Jaipur,Locality 12,Healthy Food,Moderate,450,3.7,1162,Yes,Yes
+1210,Cafe Mosaic 210,Bengaluru,Locality 12,Pizza,Moderate,350,3.9,492,Yes,No
+1211,The Food Yard 211,Coimbatore,Locality 17,North Indian,Luxury,600,5.0,756,Yes,Yes
+1212,Noodle Hub 212,Bengaluru,Locality 14,Pizza,Moderate,800,3.0,1700,Yes,Yes
+1213,Cafe Mosaic 213,Coimbatore,Locality 19,Italian,Premium,1500,4.6,72,Yes,Yes
+1214,Pizza Station 214,Delhi,Locality 20,Biryani,Premium,1200,3.9,539,Yes,Yes
+1215,Noodle Hub 215,Chennai,Locality 24,Healthy Food,Premium,1000,4.0,2231,Yes,Yes
+1216,The Food Yard 216,Ahmedabad,Locality 20,Desserts,Budget,1500,3.9,252,Yes,Yes
+1217,Urban Tiffin 217,Bengaluru,Locality 13,Desserts,Moderate,1000,4.0,1039,Yes,Yes
+1218,Urban Tiffin 218,Pune,Locality 13,Chinese,Budget,600,3.7,521,No,Yes
+1219,Pizza Station 219,Bengaluru,Locality 6,Healthy Food,Moderate,600,4.6,266,Yes,Yes
+1220,The Meal Box 220,Ahmedabad,Locality 15,South Indian,Luxury,800,3.5,1059,Yes,Yes
+1221,Royal Biryani 221,Coimbatore,Locality 4,Chinese,Moderate,250,4.4,1305,Yes,Yes
+1222,Burger Barn 222,Jaipur,Locality 24,Burgers,Moderate,1200,3.4,444,Yes,Yes
+1223,Noodle Hub 223,Delhi,Locality 22,Burgers,Budget,1000,3.8,199,Yes,Yes
+1224,Dosa Corner 224,Delhi,Locality 3,Burgers,Luxury,1200,3.2,341,Yes,Yes
+1225,Noodle Hub 225,Kolkata,Locality 20,North Indian,Budget,800,4.1,1630,No,Yes
+1226,Green Bowl 226,Coimbatore,Locality 3,Biryani,Budget,1500,4.6,2151,Yes,Yes
+1227,Grill Garden 227,Jaipur,Locality 19,North Indian,Budget,1800,3.8,454,Yes,Yes
+1228,Sweet Cravings 228,Chennai,Locality 3,Cafe,Budget,1000,3.7,804,Yes,No
+1229,Chai & Co 229,Kolkata,Locality 13,Pizza,Moderate,600,3.2,862,Yes,Yes
+1230,Curry House 230,Bengaluru,Locality 17,Cafe,Moderate,250,3.7,905,Yes,Yes
+1231,Burger Barn 231,Hyderabad,Locality 19,Desserts,Moderate,1500,2.9,614,Yes,Yes
+1232,Rice & Rasam 232,Jaipur,Locality 11,Multi-cuisine,Budget,1800,3.3,142,Yes,Yes
+1233,Spice Route 233,Hyderabad,Locality 24,Cafe,Budget,1200,3.9,1315,Yes,Yes
+1234,Cafe Mosaic 234,Coimbatore,Locality 20,Desserts,Moderate,1500,4.5,896,No,Yes
+1235,Burger Barn 235,Delhi,Locality 6,Desserts,Budget,1500,5.0,858,Yes,Yes
+1236,Noodle Hub 236,Hyderabad,Locality 17,Desserts,Moderate,1500,3.5,665,No,Yes
+1237,Punjabi Dhaba 237,Mumbai,Locality 19,Desserts,Budget,800,4.6,2323,Yes,Yes
+1238,Pizza Station 238,Pune,Locality 9,Chinese,Moderate,250,3.9,1528,Yes,Yes
+1239,Green Bowl 239,Coimbatore,Locality 19,Biryani,Moderate,250,3.7,1049,Yes,Yes
+1240,Coastal Kitchen 240,Kolkata,Locality 23,Street Food,Moderate,350,4.0,517,Yes,Yes
+1241,Royal Biryani 241,Ahmedabad,Locality 21,Pizza,Budget,600,3.8,2003,Yes,No
+1242,Sweet Cravings 242,Jaipur,Locality 20,Cafe,Budget,1200,3.9,2221,Yes,Yes
+1243,Urban Tiffin 243,Coimbatore,Locality 16,Biryani,Premium,800,3.6,85,Yes,Yes
+1244,Coastal Kitchen 244,Kolkata,Locality 7,Burgers,Budget,250,3.0,2324,Yes,Yes
+1245,Coastal Kitchen 245,Hyderabad,Locality 20,Cafe,Moderate,350,3.0,1750,Yes,Yes
+1246,Urban Tiffin 246,Delhi,Locality 10,Desserts,Moderate,1800,4.2,254,Yes,Yes
+1247,Cafe Mosaic 247,Bengaluru,Locality 14,Cafe,Moderate,1800,3.6,1884,Yes,Yes
+1248,Pizza Station 248,Mumbai,Locality 8,Pizza,Moderate,600,3.5,272,Yes,Yes
+1249,Cafe Mosaic 249,Ahmedabad,Locality 8,Healthy Food,Premium,1500,3.8,131,No,Yes
+1250,Spice Route 250,Delhi,Locality 4,Cafe,Premium,1200,4.2,292,Yes,Yes
